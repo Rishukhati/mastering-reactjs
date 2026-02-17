@@ -1,0 +1,14 @@
+# Mac system files
+.DS_Store
+.DS_Store?
+**/.DS_Store
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# Node modules
+node_modules/
+
+# Vite build output
+dist/
